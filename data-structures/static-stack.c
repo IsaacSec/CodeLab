@@ -35,7 +35,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "stack.h"
+#include "static-stack.h"
 
 /* This functios are only visible for stack.c also called
 *  private functions
