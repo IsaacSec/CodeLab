@@ -1,5 +1,5 @@
 /* This file works as Encapsulation
-*  Hides the implementation of stack.c 
+*  Hides the implementation of static-stack.c 
 */
 
 #define STACKSIZE 100
